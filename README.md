@@ -19,8 +19,13 @@ source .venv/bin/activate
 jupyter notebook
 ```
 
-3. Download the csv files for tweets from Trump [here](https://raw.githubusercontent.com/mkearney/trumptweets/master/data/trumptweets-1515775693.tweets.csv).
-Create an data directory under the main directory and save the csv file there.
+3. Download data: 
+
+Create an data directory under the main directory and save the data files there.
+
+- amazon-reviews-pds (grocery) [here](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Grocery_v1_00.tsv.gz).
+- csv file for tweets from Trump [here](https://raw.githubusercontent.com/mkearney/trumptweets/master/data/trumptweets-1515775693.tweets.csv).
+
 
 ### Can't load jupyter notebook in Github?
 
