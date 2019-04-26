@@ -24,4 +24,4 @@ Create an data directory under the main directory and save the csv file there.
 
 ### Can't load jupyter notebook in Github:
 
-You can render the notebook here: https://nbviewer.jupyter.org/
+You can render the notebook [here](https://nbviewer.jupyter.org/) .
