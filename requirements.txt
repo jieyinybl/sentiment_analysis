@@ -1,0 +1,12 @@
+pandas
+scipy
+sklearn
+matplotlib
+psycopg2-binary
+numpy
+ipython
+seaborn
+jupyter
+dtreeviz
+pydot
+featexp
