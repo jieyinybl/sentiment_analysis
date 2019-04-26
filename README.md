@@ -1,6 +1,7 @@
 # Sentiment Analysis
 Detect sentiment from twitters using Amazon Comprehend
 
+### References
 The notebook follows the [Amazon Comprehend tutorial](https://aws.amazon.com/blogs/machine-learning/detect-sentiment-from-customer-reviews-using-amazon-comprehend/).
 
 ### How to run the notebook
